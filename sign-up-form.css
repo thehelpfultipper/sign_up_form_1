@@ -120,6 +120,8 @@ label[for="terms"] {
     display: inline-block;
 }
 
+/* responsive display */
+
 @media(max-width:1438px) {
     lottie-player {
         width: 300px!important;
