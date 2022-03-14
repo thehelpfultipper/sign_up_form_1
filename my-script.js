@@ -30,4 +30,3 @@ signUpBtn.addEventListener('click', () => {
 
 
 
-
